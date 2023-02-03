@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../OneDrive/Masaüstü/ALU.vhd" \
+"../../../../../OneDrive/Masaüstü/CPU.vhd" \
+"../../../../../OneDrive/Masaüstü/computer.vhd" \
+"../../../../../OneDrive/Masaüstü/control_unit.vhd" \
+"../../../../../OneDrive/Masaüstü/data_memory.vhd" \
+"../../../../../OneDrive/Masaüstü/data_path.vhd" \
+"../../../../../OneDrive/Masaüstü/memory.vhd" \
+"../../../../../OneDrive/Masaüstü/output_ports.vhd" \
+"../../../../../OneDrive/Masaüstü/program_memory.vhd" \
+"../../../../computer1.srcs/sim_1/new/tb_computer.vhd" \
+
+# Do not sort compile order
+nosort

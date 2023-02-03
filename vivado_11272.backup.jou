@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Oct 18 02:29:20 2022
+# Process ID: 11272
+# Current directory: C:/Users/Erbay/OneDrive/Masaüstü/DESKTOP/VIVADO/VHDL/Examples/8bitlik-İşlemci Tasarımı/8-Bit Processor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4572 C:\Users\Erbay\OneDrive\Masaüstü\DESKTOP\VIVADO\VHDL\Examples\8bitlik-İşlemci Tasarımı\8-Bit Processor\computer1.xpr
+# Log file: C:/Users/Erbay/OneDrive/Masaüstü/DESKTOP/VIVADO/VHDL/Examples/8bitlik-İşlemci Tasarımı/8-Bit Processor/vivado.log
+# Journal file: C:/Users/Erbay/OneDrive/Masaüstü/DESKTOP/VIVADO/VHDL/Examples/8bitlik-İşlemci Tasarımı/8-Bit Processor\vivado.jou
+# Running On: DESKTOP-7TPKEAS, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17009 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Erbay/OneDrive/Masaüstü/DESKTOP/VIVADO/VHDL/Examples/8bitlik-İşlemci Tasarımı/8-Bit Processor/computer1.xpr}
+update_compile_order -fileset sources_1

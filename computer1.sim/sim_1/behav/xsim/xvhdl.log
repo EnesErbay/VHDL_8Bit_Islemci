@@ -1,0 +1,20 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/CPU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CPU'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/computer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'computer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/control_unit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'control_unit'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/data_memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'data_memory'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/data_path.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'data_path'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memory'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/output_ports.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'output_ports'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/OneDrive/Masaüstü/program_memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'program_memory'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Erbay/computer1/computer1.srcs/sim_1/new/tb_computer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_computer'

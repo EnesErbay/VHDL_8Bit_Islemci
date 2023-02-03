@@ -1,0 +1,14 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Users/Erbay/OneDrive/Masaüstü/ALU.vhd,1666046726,vhdl,,,,alu,,,,,,,,
+C:/Users/Erbay/OneDrive/Masaüstü/CPU.vhd,1666044385,vhdl,,,,cpu,,,,,,,,
+C:/Users/Erbay/OneDrive/Masaüstü/computer.vhd,1666047462,vhdl,,,,computer,,,,,,,,
+C:/Users/Erbay/OneDrive/Masaüstü/control_unit.vhd,1666048935,vhdl,,,,control_unit,,,,,,,,
+C:/Users/Erbay/OneDrive/Masaüstü/data_memory.vhd,1666045711,vhdl,,,,data_memory,,,,,,,,
+C:/Users/Erbay/OneDrive/Masaüstü/data_path.vhd,1666045134,vhdl,,,,data_path,,,,,,,,
+C:/Users/Erbay/OneDrive/Masaüstü/memory.vhd,1666046860,vhdl,,,,memory,,,,,,,,
+C:/Users/Erbay/OneDrive/Masaüstü/output_ports.vhd,1666046772,vhdl,,,,output_ports,,,,,,,,
+C:/Users/Erbay/OneDrive/Masaüstü/program_memory.vhd,1666046300,vhdl,,,,program_memory,,,,,,,,
+C:/Users/Erbay/computer1/computer1.srcs/sim_1/new/tb_computer.vhd,1666046425,vhdl,,,,tb_computer,,,,,,,,
